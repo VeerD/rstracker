@@ -239,30 +239,29 @@ const resetMonthly = () => {
  * Default values
  */
 const daily = [
-  'Ports',
-  'Crystal tree (Farming)',
-  'Crystal-flecked sandstone (ore)',
-  'Gorajo resource dungeon',
-  'Travelling Merchant\'s Shop',
-  'Challenge System',
-  'Wicked hood',
-  'Vis wax',
-  'Herbs',
-  'Bloodwood tree',
-  'Soul Reaper',
-  'Jack of trades aura'
+    'Modified Diviner\'s Headwear',
+    'Modified Blacksmith\'s Helmet',
+    'Modified First Age Tiara',
+    'Wicked Hood',
+    'Hamper',
+    'Red Sandstone',
+    'Crystal-Flecked Sandstone',
+    'Rune Goldberg Machine',
+    'Explorer\'s Ring 4',
+    'Managing Miscellania',
+    'Soul Obelisks',
+    'Challenge System',
+    'Soul Reaper'
 ];
 
 const weekly = [
   'Meg',
-  'Aquarium',
   'Agoroth',
   'Herby Werby',
   'Totem (Anachronia)',
   'Penguin Hide and Seek',
   'Balthazar Beauregard\'s Big Top Bonanza',
   'Tears of Guthix',
-  'Managing Miscellania',
   'Skeletal Horror',
   'Clan Citadel',
   'Shattered Worlds',
@@ -272,6 +271,5 @@ const weekly = [
 const monthly = [
   'Giant Oyster',
   'God Statues',
-  'Troll Invasion',
-  'Premier Club Vault'
+  'Troll Invasion'
 ];
