@@ -255,21 +255,19 @@ const daily = [
 ];
 
 const weekly = [
-  'Meg',
-  'Agoroth',
-  'Herby Werby',
-  'Totem (Anachronia)',
-  'Penguin Hide and Seek',
-  'Balthazar Beauregard\'s Big Top Bonanza',
-  'Tears of Guthix',
-  'Skeletal Horror',
-  'Clan Citadel',
-  'Shattered Worlds',
-  'Familiarisation'
+    'Eli#Weekly reward',
+    'Tears of Guthix',
+    'Hanky points',
+    'Clan Citadel',
+    'Meg',
+    'Treasure Hunter#Distractions and diversions',
+    'Penguin Hide and Seek',
+    ''
 ];
 
 const monthly = [
-  'Giant Oyster',
-  'God Statues',
-  'Troll Invasion'
+    'Giant Oyster',
+    'God Statues',
+    'Solomon\'s General Store',
+    'Troll Invasion'
 ];
