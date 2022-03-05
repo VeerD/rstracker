@@ -239,15 +239,15 @@ const resetMonthly = () => {
  * Default values
  */
 const daily = [
-    'Modified Diviner\'s Headwear',
-    'Modified Blacksmith\'s Helmet',
-    'Modified First Age Tiara',
-    'Wicked Hood',
+    'Modified diviner\'s headwear',
+    'Modified blacksmith\'s helmet',
+    'Modified first age tiara',
+    'Wicked hood',
     'Hamper',
-    'Red Sandstone',
-    'Crystal-Flecked Sandstone',
+    'Red sandstone',
+    'Crystal-flecked sandstone (ore)',
     'Rune Goldberg Machine',
-    'Explorer\'s Ring 4',
+    'Explorer\'s ring 4',
     'Managing Miscellania',
     'Soul Obelisks',
     'Challenge System',
