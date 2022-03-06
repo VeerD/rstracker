@@ -255,12 +255,12 @@ const daily = [
 ];
 
 const weekly = [
-    'Eli#Weekly reward',
+    'Eli', // 'Eli#Weekly reward', // Hashtags not currently supported
     'Tears of Guthix',
     'Hanky points',
     'Clan Citadel',
     'Meg',
-    'Treasure Hunter#Distractions and diversions',
+    'Treasure Hunter', // 'Treasure Hunter#Distractions and diversions',
     'Penguin Hide and Seek',
     ''
 ];
