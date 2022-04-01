@@ -248,9 +248,11 @@ const daily = [
     'Crystal-flecked sandstone (ore)',
     'Rune Goldberg Machine',
     'Explorer\'s ring 4',
-    'Managing Miscellania',
-    'Soul Obelisks',
+    'Managing miscellania',
     'Challenge System',
+    'Phoenix Lair',
+    'Serenity posts',
+    'Soul Obelisks',
     'Soul Reaper'
 ];
 
